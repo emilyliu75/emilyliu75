@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">Software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilyliu75&label=Profile%20views&color=0e75b6&style=flat" alt="emilyliu75" /> </p>
-
+<p>After five years in customer service, I sought greater intellectual challenges, which led me to the world of software development. I embarked on a self-study journey with Python for six months, which set the foundation for my enrollment in Makers’ coding bootcamp. There, I further developed my skills in Python, JavaScript, Kotlin, and SQL. My experience at the bootcamp included pair programming and collaborative projects, enhancing my understanding of Test-Driven Development (TDD), Object-Oriented Programming (OOP), and APIs. This journey has not only sharpened my technical skills but also fueled my passion for building impactful software solutions.</p>
 - 🌱 I’m currently learning **Swift, Kotlin**
 
 - 💬 Ask me about **Python, Javascript**
