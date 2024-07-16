@@ -7,7 +7,7 @@ After five years in customer service, I sought greater intellectual challenges, 
 - 💬 Programming Languages: **Python, Javascript, Kotlin**
 - 🧰 Tools and technologies: **Git, Docker**
 - 🧩 Frameworks: **React, Node.js, Express.js, Flask**
-- ⛁ Databases: **SQL, MongoDB**
+- 🛢️ Databases: **SQL, MongoDB**
 
 - 📫 How to reach me **xiangnan.liu@hotmail.com**
 
