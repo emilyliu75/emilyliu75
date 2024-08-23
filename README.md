@@ -10,6 +10,7 @@ After seven years in customer service, I sought greater intellectual challenges,
 - 🛢️ Databases: **SQL, MongoDB**
 
 - 📫 How to reach me **xiangnan.liu@hotmail.com**
+- 🌐 Portfolio **https://emilyliu75.github.io/personalsite/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
